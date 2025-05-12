@@ -1,4 +1,4 @@
-package = "avro"
+package = "kong-lua-avro"
 version = "1.0.1-2"
 
 source = {
